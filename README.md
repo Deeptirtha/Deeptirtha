@@ -29,6 +29,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptirtha&" alt="deeptirtha" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptirtha&" alt="deeptirtha" /></p>
 
 ![snake gif](https://github.com/Deeptirtha/Deeptirtha/blob/output/github-contribution-grid-snake.gif)
