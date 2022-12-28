@@ -15,7 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deeptirtha mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeptirtha mukherjee" height="30" width="40" /></a>
+
+
+
+
+[![linkedin](https://img.shields.io/badge/deeptirtha-mukherjee-7b5040249?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptirtha-mukherjee-7b5040249/)
+
+
+## To Suport My Work You Can Give a ⭐️
 </p>
 <img align="right" widh="400" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
