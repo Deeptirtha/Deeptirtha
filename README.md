@@ -22,15 +22,16 @@
 [![linkedin](https://img.shields.io/badge/deeptirtha-mukherjee-7b5040249?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeptirtha-mukherjee-7b5040249/)
 
 
-## To Suport My Work You Can Give a ⭐️
 </p>
-<img align="right" widh="400" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br>
 
+<img align="right" widh="400" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
+<br>
 <p> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=deeptirtha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
-
+<br>
 
 <p> &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptirtha&show_icons=true&locale=en&layout=compact" alt="deeptirtha" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptirtha&" alt="deeptirtha" /></p>
 
